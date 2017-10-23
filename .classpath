@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/jars/slf4j-jdk14-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/bytecode/cglib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/bytecode/javassist/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/optional/c3p0/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/optional/ehcache/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/lib/required/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BHASKAR REDDY/Desktop/confidential/Aspire Material/HIBERNATE/HIBERNATE/softwares/hibernate-distribution-3.5.6-Final/hibernate3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
